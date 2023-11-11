@@ -1,0 +1,16 @@
+.form-input{
+height: 40px;
+padding: 8px;
+border-radius: 9px;
+font-family: 'Karla';
+font-weight:400;
+}
+.continue-button{
+    background-color: #495e57;
+    color: white;
+    margin-top: 10px;
+}
+.form-labels{
+    text-align: left;
+    font-weight: bold;
+}

@@ -1,0 +1,71 @@
+.testimonials-section{
+    padding-top: 75px;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+.testimonials-container{
+    width: 1330px;
+}
+.testimonials-title{
+    font-family: 'Markazi text';
+    font-size: 50px;
+}
+.testimonials-menu{
+    display: flex;
+    justify-content: space-between;
+}
+.t-menus{
+    width: 300px;
+    border-radius: 12px;
+    background-color: #EDEFEE;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+.testimony-name{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: 'Markazi text';
+    font-size: 25px;
+}
+.testimonials-paragraph{
+    font-family: "Karla";
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: left;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.star-icons{
+    text-align: left;
+    margin-left: 20px;
+    font-family: "Karla";
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #F4CE14;
+}
+.testimonials-image{
+    border-radius: 50%;
+    width: 70px;
+    margin-left: 20px;
+}
+.image-name{
+display: flex;
+justify-content: flex-start;
+margin-top: 20px;
+font-family: 'Markazi text';
+}
+.t-name{
+    font-size: 25px;
+    margin-left: 10px;
+}
+.t-city{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: -10px;
+}

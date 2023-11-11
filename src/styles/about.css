@@ -1,0 +1,51 @@
+.about-section{
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.about-section-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1330px;
+    display: flex;
+    justify-content: space-between;
+    height: 460px;
+}
+.about-image1{
+    border-radius: 12px;
+    max-width: 500px;
+    width:500px;
+    margin-top: -200px;
+    z-index: 0;
+}
+.about-image2{
+    border-radius: 12px;
+    max-width: 500px;
+    margin-left: 100px;
+    width: 500px;
+    z-index: 2;
+    position: relative;
+}
+.right-container{
+    text-align: left;
+}
+.about-title{
+    font-family: 'Markazi text';
+    font-size: 60px;
+    color:antiquewhite
+}
+.about-general-text{
+    font-family: "Karla";
+    font-style: normal;
+    color: white;
+    font-size: 20px;
+    max-width: 500px;
+    font-style:normal;
+}
+.chicago{
+    margin-bottom: 30px;
+    margin-top: -30px;
+    font-family: 'Markazi text';
+    font-size: 30px;
+}

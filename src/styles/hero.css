@@ -1,0 +1,50 @@
+.hero-section{
+    background-color: #495e57;
+    display: flex;
+    justify-content: center;
+}
+.hero-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1330px;
+    display: flex;
+    justify-content: space-between;
+    height: 460px;
+}
+.hero-image{
+    border-radius: 12px;
+    max-width: 500px;
+}
+.right-container{
+    text-align: left;
+}
+.hero-title{
+    font-family: 'Markazi text';
+    font-size: 60px;
+    color: #F4CE14;
+}
+.hero-general-text{
+    font-family: "Karla";
+    font-style: normal;
+    color: white;
+    font-size: 20px;
+    max-width: 500px;
+    font-style:normal;
+}
+.reserve-button{
+    font-family: 'Markazi text';
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 20px;
+    width: 250px;
+    color:#495e57;
+    height: 40px;
+    border-radius: 12px;
+    background-color: #F4CE14;
+}
+.chicago{
+    margin-bottom: 30px;
+    margin-top: -30px;
+    font-family: 'Markazi text';
+    font-size: 30px;
+}

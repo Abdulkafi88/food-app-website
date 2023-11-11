@@ -1,0 +1,58 @@
+.specials-section{
+    padding-top: 75px;
+    background-color: azure;
+    display: flex;
+    justify-content: center
+}
+.specials-container{
+    width: 1330px;
+}
+.week-online{
+    display: flex;
+    justify-content: space-between;
+}
+.specials-title{
+    font-family: 'Markazi text';
+    font-size: 50px;
+}
+.specials-menu{
+    display: flex;
+    justify-content: space-between;
+}
+.s-menus{
+    width: 350px;
+    border-radius: 12px;
+    background-color: #EDEFEE;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.special-name{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: 'Markazi text';
+    font-size: 25px;
+}
+.special-paragraph{
+    font-family: "Karla";
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.order-delivery{
+    text-align: left;
+    margin-left: 20px;
+    font-family: "Karla";
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.price{
+    color: #EE9972;
+}
+.special-image{
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
