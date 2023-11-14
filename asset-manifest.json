@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/food-app-website/static/css/main.8d6781a2.css",
+    "main.js": "/food-app-website/static/js/main.f496e695.js",
+    "static/js/787.3ecd7fac.chunk.js": "/food-app-website/static/js/787.3ecd7fac.chunk.js",
+    "static/media/restaurant.jpg": "/food-app-website/static/media/restaurant.651cd6aa5e22915ada87.jpg",
+    "static/media/grilled-fish.jpg": "/food-app-website/static/media/grilled-fish.e5ca66e40cdb62a75c76.jpg",
+    "static/media/pasta.jpg": "/food-app-website/static/media/pasta.c0151a12868a248c8a75.jpg",
+    "static/media/yusron.jpg": "/food-app-website/static/media/yusron.10d475d7b549c24edc18.jpg",
+    "static/media/greek-salad.jpg": "/food-app-website/static/media/greek-salad.52d85ada0fae59a75fde.jpg",
+    "static/media/restaurant-food.jpg": "/food-app-website/static/media/restaurant-food.c0895c792309794744cf.jpg",
+    "static/media/duman.jpg": "/food-app-website/static/media/duman.42bf385f6d00f0e0773c.jpg",
+    "static/media/restaurant-chef.jpg": "/food-app-website/static/media/restaurant-chef.4d5b95441ef660690ea4.jpg",
+    "static/media/alexander.jpg": "/food-app-website/static/media/alexander.96084e515fc15d156df0.jpg",
+    "static/media/footer-logo.png": "/food-app-website/static/media/footer-logo.2c859235d6c57bb54176.png",
+    "static/media/samir.jpg": "/food-app-website/static/media/samir.a9aaeaa9f21455eff930.jpg",
+    "static/media/logo.svg": "/food-app-website/static/media/logo.fd87fc34e15316b670ea115ce700cd15.svg",
+    "index.html": "/food-app-website/index.html",
+    "main.8d6781a2.css.map": "/food-app-website/static/css/main.8d6781a2.css.map",
+    "main.f496e695.js.map": "/food-app-website/static/js/main.f496e695.js.map",
+    "787.3ecd7fac.chunk.js.map": "/food-app-website/static/js/787.3ecd7fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6781a2.css",
+    "static/js/main.f496e695.js"
+  ]
+}
