@@ -1,5 +1,5 @@
 .specials-section {
-    margin: 0 10px;
+ 
   padding-top: 75px;
   background-color: azure;
   display: grid;
@@ -8,6 +8,7 @@
 }
 .specials-container {
   width: 1330px;
+  margin:  0 20rem;
 }
 .week-online {
   display: flex;
