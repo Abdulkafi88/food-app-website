@@ -7,7 +7,7 @@ export default function Hero(){
             <div className="hero-container">
                 <div className='right-container'>
                     <h4 className='hero-title'>Little Lemon</h4>
-                    <h6 className='hero-general-text chicago' >Chicago</h6>
+                    <h6 className='hero-general-text chicago' >seattle</h6>
                     <p className='hero-general-text'>
                         Come dine with us at Little Lemon! Our menu features a wide
                          variety of delicious dishes made with only the freshest ingredients.

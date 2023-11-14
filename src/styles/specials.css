@@ -1,58 +1,123 @@
-.specials-section{
-    padding-top: 75px;
-    background-color: azure;
-    display: flex;
-    justify-content: center
+.specials-section {
+    margin: 0 10px;
+  padding-top: 75px;
+  background-color: azure;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
 }
-.specials-container{
-    width: 1330px;
+.specials-container {
+  width: 1330px;
 }
-.week-online{
-    display: flex;
-    justify-content: space-between;
+.week-online {
+  display: flex;
+  justify-content: space-between;
 }
-.specials-title{
-    font-family: 'Markazi text';
-    font-size: 50px;
+.specials-title {
+  font-family: "Markazi text";
+  font-size: 50px;
 }
-.specials-menu{
-    display: flex;
-    justify-content: space-between;
+.specials-menu {
+  display: flex;
+  justify-content: space-between;
 }
-.s-menus{
-    width: 350px;
-    border-radius: 12px;
-    background-color: #EDEFEE;
-    margin-top: 20px;
-    margin-bottom: 30px;
+.s-menus {
+  width: 350px;
+  border-radius: 12px;
+  background-color: #edefee;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
-.special-name{
-    display: flex;
-    justify-content: space-between;
-    margin-left: 20px;
-    margin-right: 10px;
-    margin-top: 10px;
-    font-family: 'Markazi text';
-    font-size: 25px;
+.special-name {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-family: "Markazi text";
+  font-size: 25px;
 }
-.special-paragraph{
-    font-family: "Karla";
-    margin-left: 20px;
-    margin-right: 10px;
-    text-align: left;
-    margin-bottom: 10px;
+.special-paragraph {
+  font-family: "Karla";
+  margin-left: 20px;
+  margin-right: 10px;
+  text-align: left;
+  margin-bottom: 10px;
 }
-.order-delivery{
-    text-align: left;
-    margin-left: 20px;
-    font-family: "Karla";
-    font-weight: 600;
-    margin-bottom: 20px;
+.order-delivery {
+  text-align: left;
+  margin-left: 20px;
+  font-family: "Karla";
+  font-weight: 600;
+  margin-bottom: 20px;
 }
-.price{
-    color: #EE9972;
+.viewmore {
+  text-align: left;
+  margin-left: 20px;
+  font-family: "Karla";
+  font-weight: 600;
+  margin-bottom: 20px;
+  background-color: #ee9972;
+  border-radius: 5px;
+  padding: 0.5rem;
 }
-.special-image{
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
+.price {
+  color: #ee9972;
 }
+.special-image {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.hey{
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px  2rem;
+}
+
+.group {
+ display: flex;
+ justify-content: flex-end;
+ line-height: 28px;
+ align-items: center;
+ position: relative;
+ max-width: 190px;
+}
+
+.input {
+ width: 100%;
+ height: 40px;
+ line-height: 28px;
+ padding: 0 1rem;
+ padding-left: 2.5rem;
+ border: 2px solid transparent;
+ border-radius: 8px;
+ outline: none;
+ background-color: #f3f3f4;
+ color: #0d0c22;
+ transition: .3s ease;
+}
+
+.input::placeholder {
+ color: #9e9ea7;
+}
+
+.input:focus, input:hover {
+ outline: none;
+ border-color: rgba(234,76,137,0.4);
+ background-color: #fff;
+ box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+}
+
+.icon {
+ position: absolute;
+ left: 1rem;
+ fill: #9e9ea7;
+ width: 1rem;
+ height: 1rem;
+}
+
+
+
+
+

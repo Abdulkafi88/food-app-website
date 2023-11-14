@@ -7,7 +7,7 @@ export default function About(){
     <div className="about-section-container">
         <div className='right-container'>
             <h4 className='about-title'>Little Lemon</h4>
-            <h6 className='about-general-text chicago' >Chicago</h6>
+            <h6 className='about-general-text chicago' >seattle</h6>
             <p className='about-general-text'>
                 Come dine with us at Little Lemon! Our menu features a wide
                  variety of delicious dishes made with only the freshest ingredients.
